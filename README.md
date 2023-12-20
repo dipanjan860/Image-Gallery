@@ -1,3 +1,5 @@
 # Image-Gallery
-This is an Image Gallery in which user can search and download images. It is created using HTML, CSS, JavaScript, and Pexels API.
-Parallax effect has been used in the Banner, which makes the design more attractive to users.
+It is a web application to search and download images.
+There is a Parallax banner created with CSS.
+It will show images according to users’ search request and users can also download the preferred images.
+The images are fetched from the Pexels API.
